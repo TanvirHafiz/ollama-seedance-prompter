@@ -1,0 +1,6 @@
+seedance-ollama/venv/
+seedance-ollama/__pycache__/
+**/__pycache__/
+*.pyc
+.DS_Store
+.claude/settings.local.json
